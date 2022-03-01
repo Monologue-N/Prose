@@ -29,7 +29,7 @@ export const site: Site = {
     name: 'Monologue.№',
     avatar: '/assets/maskable@512.png',
     status: '🍨',
-    bio: '繁星纵变，长夜永存。'
+    bio: '理一分殊，月印万川。'
   },
   url: (import.meta.env.URARA_SITE_URL as string) ?? 'https://example.com',
   themeColor: '#3D4451'

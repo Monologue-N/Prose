@@ -4,8 +4,8 @@ interface headerConfig {
 }
 
 export const config: headerConfig = {
-  nav: {
-    '/hello-world': 'The Great Gatsby',
-    '/hello-world/elements': 'Test'
-  }
+  // nav: {
+  //   '/hello-world': 'The Great Gatsby',
+  //   '/hello-world/elements': 'Test'
+  // }
 }

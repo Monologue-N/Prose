@@ -1,8 +1,7 @@
 ---
 title: '风声定格'
-date: 2017-7-19
-tags: ['小段']
-dest: '日期不详'
+date: 2017-03-05
+tags: ['小段','2017']
 ---
 <div style="text-align: center">原来记忆真的会泛黄</div>
 

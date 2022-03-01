@@ -28,7 +28,7 @@ export const site: Site = {
   author: {
     name: 'Monologue.№',
     avatar: '/assets/maskable@512.png',
-    status: '🍨',
+    status: '⏳',
     bio: '理一分殊，月印万川。'
   },
   url: (import.meta.env.URARA_SITE_URL as string) ?? 'https://example.com',

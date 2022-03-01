@@ -1,8 +1,7 @@
 ---
 title: '明黄色夏天'
-date: 2017-7-19
-tags: ['小段']
-dest: '日期不详'
+date: 2017-08-18
+tags: ['小段','2017']
 cover: '/hello-world/pics/pic01.webp'
 ---
 

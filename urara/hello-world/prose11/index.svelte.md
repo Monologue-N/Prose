@@ -40,7 +40,7 @@ cover: '/hello-world/pics/cover03.jpeg'
 
 <br/>
 <div style="color: goldenrod; text-align: center">用极夜黑模式打开有惊喜 ↓ </div>
-<img src="/hello-world/pics/star03.gif" alt="火柴人" width="200" style="margin: auto; border-radius: 15px"/>
+<img src="/hello-world/pics/star03.gif" alt="星星" width="200" style="margin: auto; border-radius: 15px"/>
 
 
 <br/>

@@ -73,7 +73,7 @@ descr: '日期不可考'
 
 <br/>
 
-<img src="/hello-world/pics/SY_00.jpeg" alt="金陵早秋叶" style="height:400px; border-radius: 15px; margin: auto">
+<img src="/hello-world/pics/SY_00.jpeg" alt="金陵早秋叶" height="400" style="border-radius: 15px; margin: auto">
 
 <br/>
 

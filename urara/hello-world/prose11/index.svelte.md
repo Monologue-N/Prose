@@ -1,6 +1,6 @@
 ---
 title: '我知这世界，本如露水般短暂'
-date: 2067-7-19
+date: 2022-03-01
 tags: ['小段', '诗', 'all时间线']
 dest: '日期不详'
 cover: '/hello-world/pics/cover03.jpeg'

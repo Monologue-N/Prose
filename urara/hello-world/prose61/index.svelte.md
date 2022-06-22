@@ -48,7 +48,6 @@ tags: ['语录', '2022']
 
 在游览观察雪橇犬时，某犬：
 
-
 <video width="320" height="240" controls>
   <source src="/hello-world/pics/Dog.mp4" type="video/mp4">
 </video>
@@ -59,4 +58,70 @@ tags: ['语录', '2022']
 
 ---
 
+<br/>
 
+某日清晨，在Anchorage驱车去买咖啡与早餐。至 A-Town Coffee，众人瞄见其左有一店，名为"Hollywood"。
+
+老哥冒出一句："水浅王八多。"
+
+<br/>
+
+---
+
+<br/>
+
+众人在Anchorage动物园，见一鸦欲以从虎口夺食。
+
+老哥："碰瓷大师。"
+
+行至另处，又遇数鸦蹑足先登以窃熊食。
+
+老哥："到处化缘。"
+
+众人乐。
+
+<br/>
+
+---
+
+<br/>
+
+仍在此动物园，小邬举着200mm镜头。或是险些出事，众人心惊："要是摔了大宝贝……"
+
+老哥："就地解决。"
+
+<br/>
+
+---
+
+<br/>
+
+正愁大疆无处施展，适逢Valdez景色梦幻，众人皆醉，赞不绝口。
+
+老哥："真的在家就可以原地起飞。"
+
+<br/>
+
+---
+
+<br/>
+
+旅途尾声，老哥突发感慨：
+
+"动物见得太多了，
+
+雪见得太多了，
+
+这日子还过吗。"
+
+<br/>
+
+---
+
+<br/>
+
+mono：我愿称其为四字大师。
+
+<img src="/hello-world/pics/doge.jpeg" alt="doge" width="200" style="margin: auto; border-radius: 15px"/>
+
+<br/>
